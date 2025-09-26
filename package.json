@@ -5,7 +5,7 @@
     "url": "git+https://github.com/domizai/AI1_P01_ReadingAssignment.git"
   },
   "scripts": {
-    "build": "npm exec generate-md -- --layout jasonm23-dark --input README.md --output docs && mv docs/README.html docs/index.html"
+    "build": "npm exec generate-md -- --layout jasonm23-dark --input README.md --output docs && mv docs/README.html docs/index.html && echo 'User-agent: *\nDisallow: /' > docs/robots.txt"
   },
   "dependencies": {
     "markdown-styles": "^3.2.0"
