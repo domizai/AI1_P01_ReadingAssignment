@@ -1,0 +1,13 @@
+{
+  "name": "ai1_p01_readingassignment",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domizai/AI1_P01_ReadingAssignment.git"
+  },
+  "scripts": {
+    "build": "npm exec generate-md -- --layout jasonm23-dark --input README.md --output dist && mv dist/README.html dist/index.html"
+  },
+  "dependencies": {
+    "markdown-styles": "^3.2.0"
+  }
+}
