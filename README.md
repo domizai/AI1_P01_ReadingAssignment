@@ -9,19 +9,29 @@
         font-family: Georgia, serif;
         background-color: var(--color-background);
         color: var(--color-text);
-        font-size: 16px;
+        font-size: 19px;
         line-height: 1.2;
         padding-top: 3rem;
         padding-bottom: 6rem;
+        max-width: 680px;
     }
 
     a:visited, a:link, a:hover, a:active {
         color: var(--color-link);
     }
 
-    p {
-        font-size: 1em;
+    p, li {
+        font-size: 1.2rem;
         line-height: 1.6;
+        max-width: 100%;
+    }
+
+    ul {
+        max-width: 100%;
+    }
+
+    li {
+        margin-bottom: 0.5em;
     }
 
     h1, h2, h3 {
@@ -41,13 +51,9 @@
         font-size: 1.0em;
     }
 
-    li {
-        margin-bottom: 0.5em;
-    }
-
     .references, .references > p, address, time, a[href^="#"] {
         font-family: Arial, sans-serif;
-        font-size: 0.8rem;
+        font-size: 0.93rem;
         font-style: normal;
     }
 
@@ -59,13 +65,19 @@
         font-weight: bold;
         line-height: 1.7;
     }
+
+    .byline {
+        margin-bottom: 2.5em;
+    }
 </style>
 
 # AI as Normal Technology:<br>Three Scenarios for the Coming Years
 
-<address class="authors">By Sercan Ay und Dominique Schmitz</address>
-<address>ZHAW Zurich University of Applied Sciences, Switzerland</address>
-<time>30.09.2025</time>
+<div class="byline">
+    <address class="authors">By Sercan Ay und Dominique Schmitz</address>
+    <address>ZHAW Zurich University of Applied Sciences, Switzerland</address>
+    <time>30.09.2025</time>
+</div>
 
 In their essay 'AI as Normal Technology', Narayanan and Kapoor argue that artificial intelligence (AI) should not be primarily understood as an imminent threat from future superintelligence. Rather, they suggest that it should be viewed as a 'normal' technology, akin to the advent of electricity or the internet [[1]](#ref1). This perspective challenges the extreme scenarios that dominate the headlines, whether utopian promises or dystopian collapse. Viewing AI as a normal technology establishes more realistic expectations: technological adoption takes time, regulations impede progress and advances are implemented incrementally.
 
