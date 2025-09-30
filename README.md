@@ -3,6 +3,7 @@
 <span style="font-family: monospace;">Von Sercan Ay und Dominique Schmitz, 29.09.2025</span>
 
 Im Artikel «AI as Normal Technology» argumentieren Narayanan und Kapoor, dass künstliche Intelligenz (KI) nicht als Bedrohung durch eine zukünftige Superintelligenz verstanden werden sollte, sondern als «normale» Technologie, die z.B. mit der Elektrifizierung oder dem Internet vergleichbar ist. Diese Sichtweise widerspricht den Extremszenarien, die häufig die Schlagzeilen dominieren. Sei es in Form von Heilsversprechen oder düsteren Weltuntergangsbildern. Der Gedanke einer normalen Technologie erscheint uns grundsätzlich überzeugend, da er realistischere Massstäbe setzt: Technologische Adoption (Diffusion) dauert, Regulierungen bremsen und Fortschritte werden inkrementell umgesetzt. 
+
 In diesem Beitrag möchten wir drei Thesen zur Entwicklung von KI in den kommenden Jahren diskutieren. Nachfolgend sind einige zentrale Kernaussagen aus dem Artikel aufgeführt, die uns als Grundlage für unsere Thesen dienen:
 
 - Die Diffusion (Adoption) ist durch die Geschwindigkeit des Menschen begrenzt. Entscheidend ist die Nutzung von Software, nicht deren Verfügbarkeit.
