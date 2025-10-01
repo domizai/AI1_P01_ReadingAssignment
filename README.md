@@ -5,6 +5,10 @@
         --color-link: #0382d0;
     }
 
+    html {
+        scroll-behavior: smooth;
+    }
+
     body {
         font-family: Georgia, serif;
         background-color: var(--color-background);
